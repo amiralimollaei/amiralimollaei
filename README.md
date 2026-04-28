@@ -1,7 +1,7 @@
-# Development Update & Technical Notes (As of April 25th)
-> [!NOTE]
+# Development Update & Technical Notes (As of April 28th)
+> [!IMPORTANT]
 >
-> I apologize for the substantial delay (57+ days) in releasing updates. Since March 2026, I have been without stable internet access in Iran, which unfortunately resulted in a loss of my local development toolchains, as well as access to the latest information about updates, below is what you need to know (I try to keep this up-to-date):
+> I apologize for the substantial delay in releasing updates. Since March 2026, I have been without stable internet access in Iran (60+ days!!), which unfortunately resulted in a loss of my local development toolchains, as well as access to the latest information about updates, below is what you need to know (I try to keep this up-to-date):
 > 
 > **1- I am slowly updating my Minecraft mods:** I am now working on the Minecraft 26.1 updates by leveraging GitHub Action Runners for compilation. Progress is slower than ideal due to the necessary reliance on external runners.
 >
