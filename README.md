@@ -1,4 +1,4 @@
-# Development Update & Technical Notes (As of April 28th)
+# Development Update & Technical Notes (As of April 30th)
 > [!IMPORTANT]
 >
 > I apologize for the substantial delay in releasing updates. Since March 2026, I have been without stable internet access in Iran (60+ days!!), which unfortunately resulted in a loss of my local development toolchains, as well as access to the latest information about updates, below is what you need to know (I try to keep this up-to-date):
