@@ -1,4 +1,4 @@
-# Development Update & Technical Notes (As of April 30th)
+# Development Update & Technical Notes (As of May 2nd)
 
 > [!IMPORTANT]
 >
