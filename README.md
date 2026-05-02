@@ -12,4 +12,4 @@
 >
 > 4- **Support the Project:** I appreciate your support! Please feel free to fork my Minecraft mods and update them yourselves!
 
-![netblocks.org](netblocks.org)
+![netblocks.org](netblocks.jpg)
