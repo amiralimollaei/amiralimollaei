@@ -10,4 +10,4 @@
 >
 > 3- I appreaciate your support: Please feel free to fork my Minecraft mods and update them yourselves!
 
-![netblocks.org](netblocks.jpg)
+![netblocks.org](netblocks.webp)
