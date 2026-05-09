@@ -4,7 +4,7 @@
 >
 > I apologize for the substantial delay in releasing updates. Since March 2026, I have been without stable internet access in Iran (~10 weeks!!), which unfortunately resulted in a loss of my local development toolchains, as well as access to the latest information about updates, below is what you need to know (I try to keep this up-to-date):
 > 
-> 1- I am struggling to update my Minecraft mods: I "was" working on the Minecraft 26.1 updates by leveraging GitHub Action Runners for compilation. Due to the necessary reliance on external runners, progress is -though possible- very slow, but more importantly, I have recently learned that using GitHub Actions in this specific manner to circumvent local connectivity restrictions violates platform policies, and will most probably result in an account ban; one that I cannot even appeal, so for keeping my account safe, I have stopped doing that.
+> 1- How am I updating my Minecraft mods with no internet?: I am working on the Minecraft 26.1.x updates by leveraging GitHub Actions to fetch all the files neccecary for offline compilation, and using GitHub Actions again to upload them to Modrinth.
 >
 > 2- How to Contact Me: To contact me, please use [GitHub Discussions](https://github.com/amiralimollaei/not-enough-vulkan/discussions) if my GitHub connection holds, otherwise, contact via Gmail.
 >
