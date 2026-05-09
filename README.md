@@ -6,7 +6,7 @@
 > 
 > 1- How am I updating my Minecraft mods with no internet?: I am working on the Minecraft 26.1.x updates by leveraging GitHub Actions to fetch all the files neccecary for offline compilation, and using GitHub Actions again to upload them to Modrinth.
 >
-> 2- How to Contact Me: To contact me, please use [GitHub Discussions](https://github.com/amiralimollaei/not-enough-vulkan/discussions) if my GitHub connection holds, otherwise, contact via Gmail.
+> 2- How to Contact Me: To contact me, please use [GitHub Discussions](https://github.com/amiralimollaei/not-enough-vulkan/discussions) if my GitHub connection holds, ~~otherwise, contact via Gmail~~ my Gmail has been restricted for "spamming", I've submitted an appeal and am waiting for the result.
 >
 > 3- I appreaciate your support: Please feel free to fork my Minecraft mods and update them yourselves!
 
